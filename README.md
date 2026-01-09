@@ -2,7 +2,7 @@
 
 ### Implementación de un Servicio SaaS de Streaming Multimedia
 
-*(Sustituye este link por tu logo si lo subes a algún sitio)*
+![Logo DawFlix](dawflix.png)
 
 ## 📋 Descripción del Proyecto
 
